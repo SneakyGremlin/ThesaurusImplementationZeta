@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/thesaurus.iml" filepath="$PROJECT_DIR$/thesaurus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thesaurusImplementationZeta.iml" filepath="$PROJECT_DIR$/thesaurusImplementationZeta.iml" />
     </modules>
   </component>
 </project>
