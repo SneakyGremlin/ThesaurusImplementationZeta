@@ -1,0 +1,64 @@
+// >>> hashmaps are NOT injective (i.e. one to one: multiple keys can map to the same hash value)
+// >>> reflexive relationships a has b iff b has a
+//>>> String methods do not modify the original string. Strings are immutable
+
+// TODO: simple regex usage !!!
+
+____________________________________________________________
+Syntax:
+StringInstance.toLowerCase()
+StringInstance.trim()
+StringInstance.replaceAll("RegEx", "replaceWith")
+
+!!! HashTable? !!!
+
+!!! .getClass()
+
+/*
+TODO:: self and mutual
+TODO:: public private protected...
+TODO:: location and time of instantian
+TODO:: arguments to super. Does a super class constructor even need to exist? when does a problem exist?
+public LexicalConstruct() {
+
+}
+TODO:: when do you get a non static usage error
+>>> static methods can be used in non-static contexts but not the other way around
+TODO
+//            String[] modStrArray = mod.split("");
+//            List<String> modArray = Arrays.asList(modStrArray);
+//            while (modArray.contains("")) modArray.remove("");
+//            mod = String.join(" ", modArray);
+
+ // >>> static methods cannot be abstract.
+ // >>> Arrays.asList()
+ // >>> String.join("", array)
+ // >>> string.split("");
+ */
+____________________________________________________________
+
+// >>> we only love people until we know too much about them
+
+// do not let your anger control you
+
+inherited or earned.
+demonstrate your desire and discomfort me
+
+
+Spare internet.
+conniving
+barister, solicitor
+blabber
+blubber
+blurb
+burble
+pawn
+involved process.
+collate
+amenable.
+remote area.
+fact that the font is so big
+enigmatic
+hACKNEYED
+encompasses
+chide
