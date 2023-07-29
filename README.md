@@ -1,6 +1,6 @@
 # ThesaurusImplementationZeta
 
-> This is very incomplete but I still choose to display it because I'm feeling capricious.
+> This is very incomplete, but I still choose to display it because I'm feeling capricious.
 
 This will be a very short readme since there ain't much I wanna say. I basically wished to improve upon the structure of my initial implementation (ThesaurusUBC) by making it more efficient 
 via hashing, and more usable by adding reflexive relationships between the entries i.e. If a is a synonym of b, b is a synonym of a. This property would be maintained throughout the program.
